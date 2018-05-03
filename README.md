@@ -1,7 +1,7 @@
 # KNN-Algorithm
 KNN Algorithm Implementation
 
-Geliştirenler
-Ümmü Seleme Akay
-Nurdan Argun
-Tuğçenur Yavuzel
+1) Geliştirenler
+-Ümmü Seleme Akay
+-Nurdan Argun
+-Tuğçenur Yavuzel
